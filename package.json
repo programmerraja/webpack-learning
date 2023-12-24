@@ -1,0 +1,24 @@
+{
+  "name": "webpack-learning",
+  "version": "1.0.0",
+  "description": "A webpack getting started",
+  "main": "src/index.js",
+  "sideEffects": false,
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "programmerraja:programmerraja/webpack-learning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "webpack": "^5.89.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^5.1.4"
+  }
+}
